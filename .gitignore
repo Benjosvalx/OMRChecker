@@ -8,6 +8,7 @@ inputs/*
 outputs/*
 
 # Misc
+samples/utal/
 **/.DS_Store
 **/__pycache__
 venv/
